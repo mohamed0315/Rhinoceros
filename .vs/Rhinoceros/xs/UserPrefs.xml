@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0048D244-13A5-43E0-9013-4E4C1CA6C43D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Rhinoceros.Writer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rhinoceros.Reader/Controllers/DepartementsController.cs">
+    <Files>
+      <File FileName="Rhinoceros.Reader/Program.cs" Line="27" Column="1" />
+      <File FileName="Rhinoceros.Reader/Controllers/DepartementsController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rhinoceros" expanded="True">
+            <Node name="Rhinoceros.Reader" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DepartementsController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Rhinoceros.Writer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestDepartment FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
